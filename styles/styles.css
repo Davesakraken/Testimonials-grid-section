@@ -68,7 +68,7 @@ p {
 
 .testimonial:first-child {
     background-color: var(--violet);
-    background-image: url(/images/bg-pattern-quotation.svg);
+    background-image: url(../images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
     background-position: 82.6% 0%;
 }
